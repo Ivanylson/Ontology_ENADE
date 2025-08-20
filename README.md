@@ -3,4 +3,4 @@ Architecture for using ENADE microdata in an educational content recommendation 
 ![Arquiteura](https://github.com/Ivanylson/Ontology_ENADE/blob/main/arq.jpg)
 
 # Ontology
-![Ontologia](https://github.com/Ivanylson/Ontology_ENADE/blob/main/ontologia.jpg))
+![Ontologia](https://github.com/Ivanylson/Ontology_ENADE/blob/main/ontologia.jpg)
